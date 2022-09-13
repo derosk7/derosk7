@@ -1,7 +1,8 @@
 # hola:)
 
 
-- 👋 soy el  vnicius almeida  😗
+- 👋 soy el  vnicius almeida  
+estudande do DB
 -👉meu email  [email](vinicius.almeida.carvalho@escola.pr.gov)
 - 👀 estou apredendo  javascript 
 - estou interresado em
