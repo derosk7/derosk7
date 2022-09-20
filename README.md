@@ -1,11 +1,10 @@
-# hola:)
+# opa :)
 
 
-- 👋 soy el  vnicius almeida  
+- 👋 sou   vnicius almeida  
 estudande do DB
 -👉[email] 
 (vinicius.almeida.carvalho@escola.pr.gov.br)
-- 👀 estou apredendo  javascript 
 - gosto de churro 🗿🍷
 
  
