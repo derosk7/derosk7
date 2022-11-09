@@ -9,4 +9,5 @@ estudande do DB
 - gosto de picanha 🗿🍷
 se liga no site 
  file:///C:/Users/vinic/Downloads/Barbearia-alura.gif 
-pega e cola no google
+ 
+pega e cola no google 👍
