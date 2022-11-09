@@ -1,7 +1,7 @@
 # opa :)
 
 
-- 👋 sou   vnicius almeida  
+- 👋 sou   vinicius almeida  
 estudande do DB
 - 👉[email] 
 (vinicius.almeida.carvalho@escola.pr.gov.br)
