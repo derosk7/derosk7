@@ -5,7 +5,6 @@
 estudande do DB
 - 👉[email] 
 (vinicius.almeida.carvalho@escola.pr.gov.br)
-- estou aprendedo a programar
 - gosto de picanha 🗿🍷
 se liga no site do pai
 <div style="position:relative;width:fit-content;height:fit-content;">
